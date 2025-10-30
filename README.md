@@ -1,4 +1,3 @@
-### Moin 😊
 
 <p align="center">
 <a href="https://github.com/m4rgheri7a">
