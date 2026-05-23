@@ -1,4 +1,4 @@
-### Hi, I'm m4rgheri7a
+### Hi, I'm m4rg
 
 Security researcher focused on binary exploitation and reverse engineering.
 
