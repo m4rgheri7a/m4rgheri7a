@@ -1,6 +1,6 @@
 ### Hi, I'm m4rg
 
-Security researcher focused on binary exploitation and reverse engineering.
+Studying systems security and logic flaws.
 
 - Currently — fuzzing 
 - Playing — CTFs with [rubiyalab](https://rubiyalab.team/)
