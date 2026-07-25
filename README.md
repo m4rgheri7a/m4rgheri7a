@@ -4,6 +4,6 @@ Studying systems security and logic flaws.
 
 - Currently — fuzzing 
 - Playing — CTFs with [rubiyalab](https://rubiyalab.team/)
-- Writing — [coming soon](https://www.giantsclub.com/)
+- Writing — [blog](https://m4rg.dev/post/)
 
 **[m4rg.dev](https://m4rg.dev)**
